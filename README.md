@@ -161,12 +161,14 @@ Para garantir que a tabela de nutrição não quebre o layout em telas pequenas:
 - Tipografia responsiva - Função clamp() para tamanhos de fonte adaptáveis
 - Acessibilidade - HTML semântico com tags apropriadas (<h1>, <h2>, <ul>, <ol>, <table>)
 
+
 ** Áreas para aprimorar nos próximos projetos: **
 - CSS Grid Layout - Explorar layouts bidimensionais para estruturas mais complexas
 - Metodologia BEM - Adotar convenção de nomenclatura para classes CSS mais escaláveis
 - Transições e animações - Adicionar micro-interações suaves para melhor experiência do usuário
 - Custom Properties avançadas - Criar variáveis para breakpoints e espaçamentos padrão
 - Performance de imagens - Implementar srcset e sizes para otimização de imagens responsivas
+
 
 ** Próximos conceitos a dominar: **
 - CSS Grid Layout - Para criar layouts complexos com linhas e colunas
@@ -176,6 +178,7 @@ Para garantir que a tabela de nutrição não quebre o layout em telas pequenas:
 - Tailwind CSS - Para desenvolvimento ágil com utilitários
 - Transições e animações CSS - Para micro-interações e feedback visual
 - Acessibilidade avançada - ARIA labels, contraste de cores, navegação por teclado
+
 
 ** Recursos úteis **
 - MDN Web Docs - CSS Custom Properties - Guia completo sobre variáveis CSS
