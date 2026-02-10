@@ -24,8 +24,8 @@ Esta é uma solução para o [desafio Recipe page do Frontend Mentor](https://ww
 
 ### Links
 
-- URL da solução: [https://github.com/seuusername/recipe-page](https://github.com/seuusername/recipe-page)
-- URL do site ao vivo: [https://seuusername.github.io/recipe-page](https://seuusername.github.io/recipe-page)
+- URL da solução: [https://github.com/Davilla07/Recipe-page.git](https://github.com/Davilla07/Recipe-page.git)
+- URL do site ao vivo: [https://davilla07.github.io/Recipe-page/](https://davilla07.github.io/Recipe-page/)
 
 ## Meu processo
 
