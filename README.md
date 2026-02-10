@@ -153,22 +153,22 @@ Para garantir que a tabela de nutrição não quebre o layout em telas pequenas:
 
 ## Desenvolvimento futuro ##
 
-## Pontos fortes do projeto:
-✅ Design responsivo completo - O layout se adapta perfeitamente de mobile a desktop
-✅ Unidades relativas consistentes - 100% dos valores convertidos para rem
-✅ Variáveis CSS bem organizadas - Cores, fontes e medidas centralizadas no :root
-✅ Flexbox aplicado corretamente - Uso de gap e flex-direction em listas
-✅ Tipografia responsiva - Função clamp() para tamanhos de fonte adaptáveis
-✅ Acessibilidade - HTML semântico com tags apropriadas (<h1>, <h2>, <ul>, <ol>, <table>)
+** Pontos fortes do projeto: **
+- Design responsivo completo - O layout se adapta perfeitamente de mobile a desktop
+- Unidades relativas consistentes - 100% dos valores convertidos para rem
+- Variáveis CSS bem organizadas - Cores, fontes e medidas centralizadas no :root
+- Flexbox aplicado corretamente - Uso de gap e flex-direction em listas
+- Tipografia responsiva - Função clamp() para tamanhos de fonte adaptáveis
+- Acessibilidade - HTML semântico com tags apropriadas (<h1>, <h2>, <ul>, <ol>, <table>)
 
-## Áreas para aprimorar nos próximos projetos:
-🔧 CSS Grid Layout - Explorar layouts bidimensionais para estruturas mais complexas
-🔧 Metodologia BEM - Adotar convenção de nomenclatura para classes CSS mais escaláveis
-🔧 Transições e animações - Adicionar micro-interações suaves para melhor experiência do usuário
-🔧 Custom Properties avançadas - Criar variáveis para breakpoints e espaçamentos padrão
-🔧 Performance de imagens - Implementar srcset e sizes para otimização de imagens responsivas
+** Áreas para aprimorar nos próximos projetos: **
+- CSS Grid Layout - Explorar layouts bidimensionais para estruturas mais complexas
+- Metodologia BEM - Adotar convenção de nomenclatura para classes CSS mais escaláveis
+- Transições e animações - Adicionar micro-interações suaves para melhor experiência do usuário
+- Custom Properties avançadas - Criar variáveis para breakpoints e espaçamentos padrão
+- Performance de imagens - Implementar srcset e sizes para otimização de imagens responsivas
 
-## Próximos conceitos a dominar:
+** Próximos conceitos a dominar: **
 - CSS Grid Layout - Para criar layouts complexos com linhas e colunas
 - Metodologia BEM - Para nomeação consistente e escalável de classes CSS
 - Pré-processadores CSS (SASS) - Para variáveis avançadas, mixins e funções
@@ -177,7 +177,7 @@ Para garantir que a tabela de nutrição não quebre o layout em telas pequenas:
 - Transições e animações CSS - Para micro-interações e feedback visual
 - Acessibilidade avançada - ARIA labels, contraste de cores, navegação por teclado
 
-## Recursos úteis
+** Recursos úteis **
 - MDN Web Docs - CSS Custom Properties - Guia completo sobre variáveis CSS
 - CSS-Tricks - Guia Completo do Flexbox - Referência definitiva para Flexbox
 - MDN - clamp() - Documentação oficial da função clamp()
