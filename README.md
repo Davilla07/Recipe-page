@@ -18,7 +18,8 @@ Esta é uma solução para o [desafio Recipe page do Frontend Mentor](https://ww
 
 ### Captura de tela
 
-![![alt text](screenshot.png)](./screenshot.jpg)
+<img width="306" height="618" alt="screenshot" src="https://github.com/user-attachments/assets/2c7df793-7ca7-4fa9-ad2b-4b6826f3ac9f" />
+
 
 
 ### Links
